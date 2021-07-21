@@ -24,7 +24,6 @@ Project by:
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Data Visualization</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
