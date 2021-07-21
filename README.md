@@ -3,10 +3,10 @@ Repository for UCI DA Project 1
 
 ### Project Proposal
 
-Carbon Emissions in the 6th Mass Extinction 
+Carbon Emissions Around the Globe
 
 Names: 
-Sunwoo Kim
+Sunny Kim
 McKenna DuVall
 Robert Gramlich
 Iram Pacheco Garcia
