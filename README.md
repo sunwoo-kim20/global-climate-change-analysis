@@ -1,9 +1,4 @@
-# project-one
-Repository for UCI DA Project 1
-
-### Project Proposal
-
-Carbon Emissions Around the Globe
+## Carbon Emissions Around the Globe
 
 Names: 
 Sunny Kim
@@ -11,15 +6,6 @@ McKenna DuVall
 Robert Gramlich
 Iram Pacheco Garcia
 
-
-Project Description:
-We’re going to analyze CO2 emissions data at the state level in the U.S. Additionally, we will analyze CO2 emissions and death by air pollution data on a global level by country to explore the relationship between CO2 emissions and air pollution related deaths. We will also incorporate the Google Weather and Geocode API to discover any trends in climate change as it relates to carbon emission. 
-
-Research Question:
--Is there a relationship between wealth distribution and co2 emissions in the U.S. by state (and globally by country)?
--Is there a relationship between co2 emissions and deaths caused by air pollution?
--What are top/bottom 5 carbon emitters in the U.S. and the globe?
--Is there a relationship between climate (temperature) and co2 emissions?
 
 Datasets and API’s:
 
@@ -30,12 +16,6 @@ Datasets and API’s:
 -Death Due to Air Pollution dataset (Kaggle)
 
 
-Data Retrieval: Sunwoo
-Data Cleaning: Sunwoo
-Statistical Analysis: Robert
-API: Iram
-Powerpoint: McKenna
-Charts: McKenna/Iram
 
 # sqlalchemy-challenge
 Repository for UCI DA Bootcamp SQLAlchemy Challenge
@@ -105,16 +85,20 @@ Repository for UCI DA Bootcamp SQLAlchemy Challenge
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Project Description:
+We’re going to analyze CO2 emissions data at the state level in the U.S. Additionally, we will analyze CO2 emissions and death by air pollution data on a global level by country to explore the relationship between CO2 emissions and air pollution related deaths. We will also incorporate the Google Weather and Geocode API to discover any trends in climate change as it relates to carbon emission. 
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+
+Research Question:
+-Is there a relationship between wealth distribution and co2 emissions in the U.S. by state (and globally by country)?
+-Is there a relationship between co2 emissions and deaths caused by air pollution?
+-What are top/bottom 5 carbon emitters in the U.S. and the globe?
+-Is there a relationship between climate (temperature) and co2 emissions?
 
 
 ### Built With
 
-* []()
+* Python ()[]()
 * []()
 * []()
 
@@ -158,9 +142,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Sunwoo Kim - s.kim32415@gmail.com
+Sunny Kim - s.kim32415@gmail.com
 
-Project Link: [https://github.com/sunwoo-kim20/sqlalchemy-challenge](https://github.com/sunwoo-kim20/sqlalchemy-challenge)
+Project Link: [https://github.com/sunwoo-kim20/sqlalchemy-challenge](https://github.com/sunwoo-kim20/global-climate-change-analysis)
 
 
 
