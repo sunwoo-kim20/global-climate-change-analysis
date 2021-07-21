@@ -7,16 +7,6 @@ Project by:
 * Iram Pacheco Garcia
 
 
-Datasets and API’s:
-
-* U.S. Energy Information Administration CO2 Emissions Dataset
-* U.S. Energy Information Administration Median Income Dataset (U.S. States)
-* World Population Review Median Income Dataset for Country
-* [International Greenhouse Gas Emissions Data set](https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions)
-* [Death Due to Air Pollution dataset](https://www.kaggle.com/akshat0giri/death-due-to-air-pollution-19902017)
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -44,15 +34,22 @@ Datasets and API’s:
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project Description:
 For this project, we are going to analyze CO2 emissions data at the state level in the U.S. Additionally, we will analyze CO2 emissions and death by air pollution data on a global level by country to explore the relationship between CO2 emissions and air pollution related deaths. By incorporating the Google Weather and Geocode API, we hope to discover trends in climate change as it relates to carbon emission. 
 
 
-Research Questions:
+### Research Questions:
 * Is there a relationship between wealth distribution and co2 emissions in the U.S. by state (and globally by country)?
 * Is there a relationship between co2 emissions and deaths caused by air pollution?
 * What are top/bottom 5 carbon emitters in the U.S. and the globe?
 * Is there a relationship between climate (highet montly temperature) and co2 emissions?
+
+### Datasets and API’s:
+
+* U.S. Energy Information Administration CO2 Emissions Dataset
+* U.S. Energy Information Administration Median Income Dataset (U.S. States)
+* World Population Review Median Income Dataset for Country
+* [International Greenhouse Gas Emissions Data set](https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions)
+* [Death Due to Air Pollution dataset](https://www.kaggle.com/akshat0giri/death-due-to-air-pollution-19902017)
 
 
 ### Built With
@@ -97,7 +94,14 @@ To get a local copy up and running follow these simple steps.
 
 
 ## Data Visualization
-![CO2 Emissions vs Climate Regression for China](https://github.com/sunwoo-kim20/global-climate-change-analysis/blob/main/output-data/images/china-regression.png)
+### CO2 Emissions of BRIC Countries from 1990-2017
+![CO2 Emissions of BRIC Countries from 1990-2017](https://github.com/sunwoo-kim20/global-climate-change-analysis/blob/main/output-data/images/bric-co2-display.png)
+
+### GDP vs CO2 Emissions Regression
+![GDP vs CO2 Emissions Regression](https://github.com/sunwoo-kim20/global-climate-change-analysis/blob/main/output-data/images/gdp-co2-display.png)
+
+### CO2 Emissions vs Climate Regression for China
+![CO2 Emissions vs Climate Regression for China](https://github.com/sunwoo-kim20/global-climate-change-analysis/blob/main/output-data/images/china-regression-display.png)
 
 
 
